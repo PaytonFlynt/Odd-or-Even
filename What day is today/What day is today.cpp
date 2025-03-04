@@ -31,7 +31,7 @@ int main()
 		cout << "Its the best day of the week, TGIF!" << endl;
 	}
 	else {
-		cout << "Invalid day, please try again" << end;
+		cout << "Invalid day, please try again" << endl;
 	}
 
 
