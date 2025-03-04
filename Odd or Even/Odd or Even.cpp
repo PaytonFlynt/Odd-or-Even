@@ -11,12 +11,12 @@ int main() {
 	//check if even or odd
 	if (number % 2 == 0) {
 		//remainder of 0 is even 
-		cout << number << " is even." << endl;
+		cout << number << " is even!" << endl;
 
 	}
 	else {
 		//remainder isn't 0, is odd 
-		cout << number << " is odd." << endl;
+		cout << number << " is odd!" << endl;
 
 	}
 
